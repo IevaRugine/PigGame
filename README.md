@@ -12,4 +12,6 @@ For learning purposes.
 
 - JavaScript
 
-![Alt text](relative/path/to/PigGame.jpg?raw=true "PigGame")
+<p align="center">
+  <img src="/PigGame.jpg" width="350" title="hover text">
+</p>
